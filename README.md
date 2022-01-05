@@ -38,3 +38,7 @@ The server handles and validates the information requested from the client and h
 Pub/sub was also a major architecture style used and implemented within all components. The messaging system through MQTT worked as an event activator for various actions, e.g to validate a request or load time slots for a given date etc. We tried to minimize the amount of topics used for simplicity sake and minimize the load on the broker itself. 
 
 This can also be seen in the components, e.g the appointment-finder is essentially a listener for one topic and only has one responsibility. This was our tactic as well, by separating the different concerns of the system and delegate them to appropriate components we achieved a smooth communication flow between components. This made the development phase easier as well as the processing within each component had no dependencies outside that component. 
+
+## Conceptualization
+
+See https://git.chalmers.se/courses/dit355/test-teams-formation/team-14/team-14-project/-/wikis/Component-Diagram
