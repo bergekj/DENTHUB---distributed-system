@@ -8,7 +8,7 @@
 ##### The interface is a simple web application, where users will be able to navigate a map marked with available dentist clinics. Upon clicking on of these clinics a booking form with a calender will appear, and let users fill in necessary information to ultimately book their appointment. Bookings are successful if the client recieves a booking confirmation. 
  
 
-# How we are making it:
+# How we are making it
 
 #### The project will consist of multiple technologies, which will work together to form a distributed system. The technologies are the following. 
 - Node.js Express framework for server implementation written in JavaScript 
@@ -48,3 +48,7 @@ This can also be seen in the components, e.g the appointment-finder is essential
 ### Functional Decomposition Model
 
 ![Functional_Decomposition](./Functional_Decomposition.jpg)
+
+### Project management
+
+See our wiki: https://git.chalmers.se/courses/dit355/test-teams-formation/team-14/documentation/-/wikis/home
