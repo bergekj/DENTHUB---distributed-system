@@ -41,9 +41,10 @@ This can also be seen in the components, e.g the appointment-finder is essential
 
 ## Conceptualization
 
+### Component Diagram
+
+![Component Diagram](./Order_Processing_System.png)
+
 ### Functional Decomposition Model
 
 ![Functional_Decomposition](./Functional_Decomposition.jpg)
-
-###Component Diagram
-See https://git.chalmers.se/courses/dit355/test-teams-formation/team-14/team-14-project/-/wikis/Component-Diagram
