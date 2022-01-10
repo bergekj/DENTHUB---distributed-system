@@ -43,7 +43,7 @@ This can also be seen in the components, e.g the appointment-finder is essential
 
 ### Component Diagram
 
-![Component Diagram](./Component-Diagram.png)
+![Component Diagram](./Component_Diagram.png)
 
 ### Functional Decomposition Model
 
