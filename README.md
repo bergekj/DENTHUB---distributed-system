@@ -47,7 +47,7 @@ This can also be seen in the components, e.g the appointment-finder is essential
 
 ### Functional Decomposition Model
 
-![Functional_Decomposition](./Functional_Decomposition.jpg)
+![Functional_Decomposition](./Functional-Decomposition.png)
 
 ### Project management
 
